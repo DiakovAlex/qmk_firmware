@@ -5,8 +5,11 @@
     "diode_direction": "COL2ROW",
     "features": {
         "bootmagic": true,
+<<<<<<< HEAD
         "command": false,
         "console": false,
+=======
+>>>>>>> faf77f1651f7660c55f7a8f2a7b653808a29e0e3
         "extrakey": true,
         "mousekey": true,
         "nkro": true
